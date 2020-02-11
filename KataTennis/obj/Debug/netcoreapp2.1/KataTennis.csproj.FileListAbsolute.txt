@@ -1,0 +1,14 @@
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\KataTennis.deps.json
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\KataTennis.runtimeconfig.json
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\KataTennis.runtimeconfig.dev.json
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\KataTennis.dll
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\bin\Debug\netcoreapp2.1\KataTennis.pdb
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.csprojAssemblyReference.cache
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.csproj.CoreCompileInputs.cache
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.AssemblyInfoInputs.cache
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.AssemblyInfo.cs
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.dll
+D:\Users\t.cave-ext\Documents\KataTennis\KataTennis\obj\Debug\netcoreapp2.1\KataTennis.pdb
